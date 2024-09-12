@@ -177,11 +177,13 @@ footer > p {
     background-color: green;
     font-size: 16px;
     color: white;
-    margin: 28px 0px -10px 0px;
+    padding: 5px 0px 0px 0px;
+    margin: 5px 0px 0px 0px;
 }
 
 footer {
-   margin: 0px 0px 0px 0px;
+   margin: 5px 0px 0px 0px;
+   padding: 5px 0px 0px 0px;
 }
 
 .links {
